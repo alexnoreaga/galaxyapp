@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/galaxyapp/static/js/main.5d3ab124.js",
+    "service-worker.js": "/galaxyapp/service-worker.js",
+    "index.html": "/galaxyapp/index.html",
+    "main.5d3ab124.js.map": "/galaxyapp/static/js/main.5d3ab124.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d3ab124.js"
+  ]
+}
